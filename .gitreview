@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/platform_prebuilts_beach_chromium_arm64
+defaultbranch=android11-qpr1

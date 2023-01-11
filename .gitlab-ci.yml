@@ -1,0 +1,4 @@
+update_fdroid_repo_common:
+  trigger: BeachOS/beach-fdroid-repo
+  only:
+  - android11-qpr1
